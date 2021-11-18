@@ -14,7 +14,7 @@ Requires [Composer](https://getcomposer.org/) and PHP 7.2 or later.
 
 See also:
 * [Help:Toolforge/Kubernetes#PHP](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Kubernetes#PHP), Wikitech.
- # https://en.wikipedia.org/wiki/Tools
+ # https://en.wikipedia.org/wiki/sandbox
 ### Installation
 
 ```
