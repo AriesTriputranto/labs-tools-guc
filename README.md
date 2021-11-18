@@ -14,7 +14,7 @@ Requires [Composer](https://getcomposer.org/) and PHP 7.2 or later.
 
 See also:
 * [Help:Toolforge/Kubernetes#PHP](https://wikitech.wikimedia.org/wiki/Help:Toolforge/Kubernetes#PHP), Wikitech.
- # https://en.wikipedia.org/wiki/Dropbear-SSH [[ssh tools-login.wmflabs.org]]
+ # https://en.wikipedia.org/wiki/server ssh tools-login.wmflabs.org
 
 you@tools-bastion$ become guc
 
